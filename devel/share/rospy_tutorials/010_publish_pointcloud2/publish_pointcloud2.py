@@ -1,1 +1,0 @@
-/home/mark/ROS-Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/010_publish_pointcloud2/publish_pointcloud2.py

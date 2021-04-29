@@ -1,1 +1,0 @@
-/home/mark/ROS-Tutorials/devel/.private/roscpp_tutorials/share/gennodejs/ros/roscpp_tutorials/srv/TwoInts.js

@@ -1,6 +1,0 @@
-devel_space: /home/mark/ROS-Tutorials/devel
-install: false
-install_space: /home/mark/ROS-Tutorials/install
-profile: default
-source_space: /home/mark/ROS-Tutorials/src
-workspace: /home/mark/ROS-Tutorials

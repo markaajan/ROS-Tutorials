@@ -1,1 +1,0 @@
-/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/_package_Pose.lisp

@@ -1,8 +1,0 @@
-prefix=/home/mark/ROS-Tutorials/devel/.private/rospy_tutorials
-
-Name: rospy_tutorials
-Description: Description of rospy_tutorials
-Version: 0.10.2
-Cflags: -I/home/mark/ROS-Tutorials/devel/.private/rospy_tutorials/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime std_msgs

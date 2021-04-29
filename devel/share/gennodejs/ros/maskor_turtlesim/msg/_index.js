@@ -1,1 +1,0 @@
-/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/msg/_index.js

@@ -1,8 +1,0 @@
-prefix=/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim
-
-Name: maskor_turtlesim
-Description: Description of maskor_turtlesim
-Version: 0.6.0
-Cflags: -I/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/include
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs message_runtime std_msgs std_srvs
