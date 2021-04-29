@@ -1,0 +1,1 @@
+/home/mark/ROS-Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/009_advanced_publish/advanced_publish.py

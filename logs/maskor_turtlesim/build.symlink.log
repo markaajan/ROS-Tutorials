@@ -1,0 +1,289 @@
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/SetPen.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/Spawn.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/SetPenRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/TeleportAbsoluteResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/TeleportAbsoluteRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/KillResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/KillRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/TeleportRelativeResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/TeleportRelative.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/Pose.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/TeleportRelativeRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/SetPenResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/Color.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/TeleportAbsolute.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/SpawnRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/Kill.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/maskor_turtlesim/SpawnResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/lib/maskor_turtlesim/maskor_turtle_teleop_key
+Symlinking /home/mark/ROS-Tutorials/devel/lib/maskor_turtlesim/maskor_turtlesim_node
+Symlinking /home/mark/ROS-Tutorials/devel/lib/maskor_turtlesim/maskor_mimic
+Symlinking /home/mark/ROS-Tutorials/devel/lib/maskor_turtlesim/maskor_draw_square
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/__init__.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/__init__.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_SetPen.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_Spawn.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportAbsolute.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_Kill.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportRelative.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/__init__.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/_Pose.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/_Color.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/pkgconfig/maskor_turtlesim.pc
+Symlinking /home/mark/ROS-Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-extras.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-paths.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesimConfig.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesimConfig-version.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/Kill.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/Spawn.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/TeleportAbsolute.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_Spawn.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/SetPen.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_Kill.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportAbsolute.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/maskor_turtlesim-srv.asd
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/TeleportRelative.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportRelative.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_SetPen.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/Pose.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/Color.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package_Pose.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package_Color.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/maskor_turtlesim-msg.asd
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/_index.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/TeleportAbsolute.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/Spawn.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/SetPen.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/Kill.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/_index.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/TeleportRelative.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/Color.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/Pose.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/_index.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/manifest.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/TeleportAbsolute.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/SetPen.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/Spawn.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/TeleportRelative.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/Kill.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/msg/Pose.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/maskor_turtlesim/msg/Color.l
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/cmake.lock, /home/mark/ROS1_Tutorials/devel/./cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/SetPen.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SetPen.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/Spawn.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Spawn.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/SetPenRequest.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SetPenRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/TeleportAbsoluteResponse.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportAbsoluteResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/TeleportAbsoluteRequest.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportAbsoluteRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/KillResponse.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/KillResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/KillRequest.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/KillRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/TeleportRelativeResponse.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportRelativeResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/TeleportRelative.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportRelative.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/Pose.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Pose.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/TeleportRelativeRequest.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportRelativeRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/SetPenResponse.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SetPenResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/Color.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Color.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/TeleportAbsolute.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportAbsolute.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/SpawnRequest.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SpawnRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/Kill.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Kill.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/include/maskor_turtlesim/SpawnResponse.h, /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SpawnResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_turtle_teleop_key, /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_turtle_teleop_key)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_turtlesim_node, /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_turtlesim_node)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_mimic, /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_mimic)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_draw_square, /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_draw_square)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/__init__.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/__init__.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/srv/__init__.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/__init__.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/srv/_SetPen.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_SetPen.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/srv/_Spawn.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_Spawn.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportAbsolute.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportAbsolute.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/srv/_Kill.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_Kill.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportRelative.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportRelative.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/msg/__init__.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/__init__.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/msg/_Pose.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/_Pose.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/python3/dist-packages/maskor_turtlesim/msg/_Color.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/_Color.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/lib/pkgconfig/maskor_turtlesim.pc, /home/mark/ROS1_Tutorials/devel/lib/pkgconfig/maskor_turtlesim.pc)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-extras.cmake, /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-extras.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-paths.cmake, /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-paths.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/maskor_turtlesim/cmake/maskor_turtlesimConfig.cmake, /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesimConfig.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/maskor_turtlesim/cmake/maskor_turtlesimConfig-version.cmake, /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesimConfig-version.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/Kill.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/Kill.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/Spawn.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/Spawn.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/TeleportAbsolute.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/TeleportAbsolute.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/_package.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/_package_Spawn.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_Spawn.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/SetPen.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/SetPen.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/_package_Kill.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_Kill.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportAbsolute.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportAbsolute.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/maskor_turtlesim-srv.asd, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/maskor_turtlesim-srv.asd)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/TeleportRelative.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/TeleportRelative.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportRelative.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportRelative.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/srv/_package_SetPen.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_SetPen.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/Pose.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/Pose.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/Color.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/Color.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/_package_Pose.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package_Pose.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/_package.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/_package_Color.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package_Color.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/common-lisp/ros/maskor_turtlesim/msg/maskor_turtlesim-msg.asd, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/maskor_turtlesim-msg.asd)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/_index.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/_index.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/srv/TeleportAbsolute.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/TeleportAbsolute.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/srv/Spawn.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/Spawn.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/srv/SetPen.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/SetPen.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/srv/Kill.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/Kill.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/srv/_index.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/_index.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/srv/TeleportRelative.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/TeleportRelative.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/msg/Color.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/Color.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/msg/Pose.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/Pose.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/gennodejs/ros/maskor_turtlesim/msg/_index.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/_index.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/manifest.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/manifest.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/srv/TeleportAbsolute.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/TeleportAbsolute.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/srv/SetPen.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/SetPen.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/srv/Spawn.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/Spawn.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/srv/TeleportRelative.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/TeleportRelative.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/srv/Kill.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/Kill.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/msg/Pose.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/msg/Pose.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/maskor_turtlesim/share/roseus/ros/maskor_turtlesim/msg/Color.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/msg/Color.l)
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SetPen.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Spawn.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SetPenRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportAbsoluteResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportAbsoluteRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/KillResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/KillRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportRelativeResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportRelative.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Pose.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportRelativeRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SetPenResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Color.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/TeleportAbsolute.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SpawnRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/Kill.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/maskor_turtlesim/SpawnResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_turtle_teleop_key
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_turtlesim_node
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_mimic
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/maskor_turtlesim/maskor_draw_square
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/__init__.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_SetPen.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_Spawn.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportAbsolute.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_Kill.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/srv/_TeleportRelative.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/_Pose.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/maskor_turtlesim/msg/_Color.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/pkgconfig/maskor_turtlesim.pc
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesimConfig.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/maskor_turtlesim/cmake/maskor_turtlesimConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/Kill.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/Spawn.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/TeleportAbsolute.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_Spawn.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/SetPen.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_Kill.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportAbsolute.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/maskor_turtlesim-srv.asd
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/TeleportRelative.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_TeleportRelative.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/srv/_package_SetPen.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/Pose.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/Color.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package_Pose.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/_package_Color.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/maskor_turtlesim/msg/maskor_turtlesim-msg.asd
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/_index.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/TeleportAbsolute.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/Spawn.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/SetPen.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/Kill.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/srv/TeleportRelative.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/Color.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/Pose.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/maskor_turtlesim/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/manifest.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/TeleportAbsolute.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/SetPen.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/Spawn.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/TeleportRelative.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/srv/Kill.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/msg/Pose.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/maskor_turtlesim/msg/Color.l
+Already unlinked: {}

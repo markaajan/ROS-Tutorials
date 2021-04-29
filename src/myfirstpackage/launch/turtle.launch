@@ -1,0 +1,4 @@
+ <launch>
+     <node name="turtlesim_node" pkg="turtlesim" type="turtlesim_node" output="screen" />
+     <node name="turtlesim_teleop_key" pkg="turtlesim" type="draw_square" output="log" />
+ </launch>

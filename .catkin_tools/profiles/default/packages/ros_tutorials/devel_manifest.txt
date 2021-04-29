@@ -1,0 +1,2 @@
+ros_tutorials/ros_tutorials
+/home/mark/ROS-Tutorials/devel/.private/ros_tutorials/cmake.lock /home/mark/ROS-Tutorials/devel/./cmake.lock

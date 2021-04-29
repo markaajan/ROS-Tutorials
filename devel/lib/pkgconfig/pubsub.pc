@@ -1,0 +1,1 @@
+/home/mark/ROS-Tutorials/devel/.private/pubsub/lib/pkgconfig/pubsub.pc

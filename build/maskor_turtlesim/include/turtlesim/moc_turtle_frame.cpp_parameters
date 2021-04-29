@@ -1,0 +1,12 @@
+-I/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/include
+-I/home/mark/ROS-Tutorials/src/maskor_ros_tutorials/maskor_turtlesim/include
+-I/opt/ros/noetic/include
+-I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/usr/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="maskor_turtlesim"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/mark/ROS-Tutorials/build/maskor_turtlesim/include/turtlesim/moc_turtle_frame.cpp
+/home/mark/ROS-Tutorials/src/maskor_ros_tutorials/maskor_turtlesim/include/turtlesim/turtle_frame.h

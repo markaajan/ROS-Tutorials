@@ -1,0 +1,1 @@
+/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/share/maskor_turtlesim/cmake/maskor_turtlesim-msg-extras.cmake

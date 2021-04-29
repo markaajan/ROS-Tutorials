@@ -1,0 +1,8 @@
+prefix=/home/mark/ROS-Tutorials/install
+
+Name: myfirstpackage
+Description: Description of myfirstpackage
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

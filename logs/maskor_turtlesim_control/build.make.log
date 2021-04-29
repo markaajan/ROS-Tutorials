@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target keyboard_cmds[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/keyboard_cmds.dir/src/keyboard_cmds.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim_control/lib/maskor_turtlesim_control/keyboard_cmds[0m
+[100%] Built target keyboard_cmds

@@ -1,0 +1,1 @@
+/home/mark/ROS-Tutorials/devel/.private/myfirstpackage/lib/pkgconfig/myfirstpackage.pc

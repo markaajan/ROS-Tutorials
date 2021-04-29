@@ -1,0 +1,289 @@
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/Floats.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/BadTwoIntsRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/AddTwoIntsResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/AddTwoIntsRequest.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/BadTwoIntsResponse.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/AddTwoInts.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/HeaderString.h
+Symlinking /home/mark/ROS-Tutorials/devel/include/rospy_tutorials/BadTwoInts.h
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/__init__.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/__init__.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/_AddTwoInts.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/_BadTwoInts.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/_HeaderString.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/__init__.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/_Floats.py
+Symlinking /home/mark/ROS-Tutorials/devel/lib/pkgconfig/rospy_tutorials.pc
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/BadTwoInts.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package_BadTwoInts.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/rospy_tutorials-srv.asd
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package_AddTwoInts.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/AddTwoInts.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package_Floats.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/HeaderString.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package_HeaderString.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/Floats.lisp
+Symlinking /home/mark/ROS-Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/rospy_tutorials-msg.asd
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/_index.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/BadTwoInts.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/AddTwoInts.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/_index.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/Floats.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/HeaderString.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/_index.js
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/rospy_tutorials/manifest.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/rospy_tutorials/srv/AddTwoInts.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/rospy_tutorials/srv/BadTwoInts.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/rospy_tutorials/msg/Floats.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/roseus/ros/rospy_tutorials/msg/HeaderString.l
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/006_parameters/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/006_parameters/param_talker.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorialsConfig.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorials-msg-extras.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorials-msg-paths.cmake
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/007_connection_header/listener_connection_header.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/007_connection_header/talker_connection_header.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/007_connection_header/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/007_connection_header/server_connection_header.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/007_connection_header/client_connection_header.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/005_add_two_ints/add_two_ints_client
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/005_add_two_ints/add_two_ints_server
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/005_add_two_ints/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/001_talker_listener/talker
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/001_talker_listener/listener.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/001_talker_listener/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/001_talker_listener/listener
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/001_talker_listener/talker.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/003_listener_with_user_data/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/002_headers/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/002_headers/talker_header.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/002_headers/listener_header.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/009_advanced_publish/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/009_advanced_publish/advanced_publish.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/008_on_shutdown/publish_on_shutdown.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/008_on_shutdown/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/004_listener_subscribe_notify/cmake.lock
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/010_publish_pointcloud2/publish_pointcloud2.py
+Symlinking /home/mark/ROS-Tutorials/devel/share/rospy_tutorials/010_publish_pointcloud2/cmake.lock
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/cmake.lock, /home/mark/ROS1_Tutorials/devel/./cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/Floats.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/Floats.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/BadTwoIntsRequest.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/BadTwoIntsRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/AddTwoIntsResponse.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/AddTwoIntsResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/AddTwoIntsRequest.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/AddTwoIntsRequest.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/BadTwoIntsResponse.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/BadTwoIntsResponse.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/AddTwoInts.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/AddTwoInts.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/HeaderString.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/HeaderString.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/include/rospy_tutorials/BadTwoInts.h, /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/BadTwoInts.h)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/__init__.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/__init__.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/srv/__init__.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/__init__.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/srv/_AddTwoInts.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/_AddTwoInts.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/srv/_BadTwoInts.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/_BadTwoInts.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/msg/_HeaderString.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/_HeaderString.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/msg/__init__.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/__init__.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/python3/dist-packages/rospy_tutorials/msg/_Floats.py, /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/_Floats.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/lib/pkgconfig/rospy_tutorials.pc, /home/mark/ROS1_Tutorials/devel/lib/pkgconfig/rospy_tutorials.pc)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/srv/BadTwoInts.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/BadTwoInts.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/srv/_package_BadTwoInts.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package_BadTwoInts.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/srv/rospy_tutorials-srv.asd, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/rospy_tutorials-srv.asd)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/srv/_package_AddTwoInts.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package_AddTwoInts.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/srv/_package.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/srv/AddTwoInts.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/AddTwoInts.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/msg/_package_Floats.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package_Floats.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/msg/HeaderString.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/HeaderString.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/msg/_package_HeaderString.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package_HeaderString.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/msg/_package.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/msg/Floats.lisp, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/Floats.lisp)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/common-lisp/ros/rospy_tutorials/msg/rospy_tutorials-msg.asd, /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/rospy_tutorials-msg.asd)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/_index.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/_index.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/srv/BadTwoInts.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/BadTwoInts.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/srv/AddTwoInts.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/AddTwoInts.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/srv/_index.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/_index.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/msg/Floats.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/Floats.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/msg/HeaderString.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/HeaderString.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/gennodejs/ros/rospy_tutorials/msg/_index.js, /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/_index.js)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/roseus/ros/rospy_tutorials/manifest.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/manifest.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/roseus/ros/rospy_tutorials/srv/AddTwoInts.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/srv/AddTwoInts.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/roseus/ros/rospy_tutorials/srv/BadTwoInts.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/srv/BadTwoInts.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/roseus/ros/rospy_tutorials/msg/Floats.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/msg/Floats.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/roseus/ros/rospy_tutorials/msg/HeaderString.l, /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/msg/HeaderString.l)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/006_parameters/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/006_parameters/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/006_parameters/param_talker.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/006_parameters/param_talker.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/cmake/rospy_tutorialsConfig.cmake, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorialsConfig.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/cmake/rospy_tutorials-msg-extras.cmake, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorials-msg-extras.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/cmake/rospy_tutorials-msg-paths.cmake, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorials-msg-paths.cmake)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/007_connection_header/listener_connection_header.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/listener_connection_header.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/007_connection_header/talker_connection_header.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/talker_connection_header.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/007_connection_header/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/007_connection_header/server_connection_header.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/server_connection_header.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/007_connection_header/client_connection_header.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/client_connection_header.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/005_add_two_ints/add_two_ints_client, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/005_add_two_ints/add_two_ints_client)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/005_add_two_ints/add_two_ints_server, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/005_add_two_ints/add_two_ints_server)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/005_add_two_ints/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/005_add_two_ints/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/001_talker_listener/talker, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/talker)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/001_talker_listener/listener.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/listener.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/001_talker_listener/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/001_talker_listener/listener, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/listener)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/001_talker_listener/talker.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/talker.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/003_listener_with_user_data/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/003_listener_with_user_data/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/002_headers/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/002_headers/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/002_headers/talker_header.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/002_headers/talker_header.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/002_headers/listener_header.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/002_headers/listener_header.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/009_advanced_publish/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/009_advanced_publish/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/009_advanced_publish/advanced_publish.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/009_advanced_publish/advanced_publish.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/008_on_shutdown/publish_on_shutdown.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/008_on_shutdown/publish_on_shutdown.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/008_on_shutdown/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/008_on_shutdown/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/004_listener_subscribe_notify/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/004_listener_subscribe_notify/cmake.lock)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/010_publish_pointcloud2/publish_pointcloud2.py, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/010_publish_pointcloud2/publish_pointcloud2.py)
+Cleaning: (/home/mark/ROS1_Tutorials/devel/.private/rospy_tutorials/share/rospy_tutorials/010_publish_pointcloud2/cmake.lock, /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/010_publish_pointcloud2/cmake.lock)
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/Floats.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/BadTwoIntsRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/AddTwoIntsResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/AddTwoIntsRequest.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/BadTwoIntsResponse.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/AddTwoInts.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/HeaderString.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/include/rospy_tutorials/BadTwoInts.h
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/__init__.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/_AddTwoInts.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/srv/_BadTwoInts.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/_HeaderString.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/python3/dist-packages/rospy_tutorials/msg/_Floats.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/lib/pkgconfig/rospy_tutorials.pc
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/BadTwoInts.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package_BadTwoInts.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/rospy_tutorials-srv.asd
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package_AddTwoInts.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/srv/AddTwoInts.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package_Floats.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/HeaderString.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package_HeaderString.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/Floats.lisp
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/common-lisp/ros/rospy_tutorials/msg/rospy_tutorials-msg.asd
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/_index.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/BadTwoInts.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/AddTwoInts.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/Floats.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/HeaderString.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/gennodejs/ros/rospy_tutorials/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/manifest.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/srv/AddTwoInts.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/srv/BadTwoInts.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/msg/Floats.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/roseus/ros/rospy_tutorials/msg/HeaderString.l
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/006_parameters/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/006_parameters/param_talker.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorialsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorials-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/cmake/rospy_tutorials-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/listener_connection_header.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/talker_connection_header.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/server_connection_header.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/007_connection_header/client_connection_header.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/005_add_two_ints/add_two_ints_client
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/005_add_two_ints/add_two_ints_server
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/005_add_two_ints/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/talker
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/listener.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/listener
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/001_talker_listener/talker.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/003_listener_with_user_data/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/002_headers/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/002_headers/talker_header.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/002_headers/listener_header.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/009_advanced_publish/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/009_advanced_publish/advanced_publish.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/008_on_shutdown/publish_on_shutdown.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/008_on_shutdown/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/004_listener_subscribe_notify/cmake.lock
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/010_publish_pointcloud2/publish_pointcloud2.py
+Already unlinked: {}
+Unlinking: /home/mark/ROS1_Tutorials/devel/share/rospy_tutorials/010_publish_pointcloud2/cmake.lock
+Already unlinked: {}

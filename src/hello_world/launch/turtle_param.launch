@@ -1,0 +1,6 @@
+<launch>
+     <node name="hello_launch" pkg="hello_world" type="hello_world.py" output="screen">
+         <param name="freq" value="1" />
+         <param name="text" value="Hello Darkness my old friend" />
+     </node>
+ </launch>

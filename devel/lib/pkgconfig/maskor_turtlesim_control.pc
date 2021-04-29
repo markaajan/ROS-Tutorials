@@ -1,0 +1,1 @@
+/home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim_control/lib/pkgconfig/maskor_turtlesim_control.pc

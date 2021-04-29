@@ -1,0 +1,5 @@
+myfirstpackage
+/home/mark/ROS-Tutorials/devel/.private/myfirstpackage/cmake.lock /home/mark/ROS-Tutorials/devel/./cmake.lock
+/home/mark/ROS-Tutorials/devel/.private/myfirstpackage/lib/pkgconfig/myfirstpackage.pc /home/mark/ROS-Tutorials/devel/lib/pkgconfig/myfirstpackage.pc
+/home/mark/ROS-Tutorials/devel/.private/myfirstpackage/share/myfirstpackage/cmake/myfirstpackageConfig-version.cmake /home/mark/ROS-Tutorials/devel/share/myfirstpackage/cmake/myfirstpackageConfig-version.cmake
+/home/mark/ROS-Tutorials/devel/.private/myfirstpackage/share/myfirstpackage/cmake/myfirstpackageConfig.cmake /home/mark/ROS-Tutorials/devel/share/myfirstpackage/cmake/myfirstpackageConfig.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mark/ROS-Tutorials/devel/.private/turtlesim/setup.sh

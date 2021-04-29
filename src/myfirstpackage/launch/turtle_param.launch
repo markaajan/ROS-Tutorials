@@ -1,0 +1,6 @@
+<launch>
+     <node name="turtle_launch" pkg="turtlesim" type="turtlesim_node" output="screen">
+         <param name="/background_b" value="100" />
+     </node>
+     <node name="turtle_teleop_key" pkg="turtlesim" type="turtle_teleop_key" output="screen"/>
+ </launch>

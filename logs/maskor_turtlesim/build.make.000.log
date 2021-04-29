@@ -1,0 +1,114 @@
+[35m[1mScanning dependencies of target maskor_mimic[0m
+[  2%] [32mBuilding CXX object CMakeFiles/maskor_mimic.dir/tutorials/mimic.cpp.o[0m
+[35m[1mScanning dependencies of target maskor_draw_square[0m
+[  4%] [32mBuilding CXX object CMakeFiles/maskor_draw_square.dir/tutorials/draw_square.cpp.o[0m
+[  6%] [34m[1mGenerating include/turtlesim/moc_turtle_frame.cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target maskor_turtlesim_node[0m
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_TeleportRelative[0m
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_TeleportAbsolute[0m
+[  6%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_Spawn[0m
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_Pose[0m
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_Color[0m
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_SetPen[0m
+[  8%] [32mBuilding CXX object CMakeFiles/maskor_turtlesim_node.dir/src/turtlesim.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/maskor_turtlesim_node.dir/src/turtle.cpp.o[0m
+[ 10%] Built target _maskor_turtlesim_generate_messages_check_deps_TeleportRelative
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 10%] Built target _maskor_turtlesim_generate_messages_check_deps_Spawn
+[ 10%] Built target _maskor_turtlesim_generate_messages_check_deps_TeleportAbsolute
+[ 10%] Built target geometry_msgs_generate_messages_cpp
+[ 12%] [32mBuilding CXX object CMakeFiles/maskor_turtlesim_node.dir/src/turtle_frame.cpp.o[0m
+[ 12%] Built target _maskor_turtlesim_generate_messages_check_deps_SetPen
+[ 12%] Built target _maskor_turtlesim_generate_messages_check_deps_Color
+[35m[1mScanning dependencies of target _maskor_turtlesim_generate_messages_check_deps_Kill[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/maskor_turtlesim_node.dir/include/turtlesim/moc_turtle_frame.cpp.o[0m
+[ 14%] Built target _maskor_turtlesim_generate_messages_check_deps_Pose
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 14%] Built target std_srvs_generate_messages_nodejs
+[ 14%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 14%] Built target std_msgs_generate_messages_nodejs
+[ 14%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 14%] Built target _maskor_turtlesim_generate_messages_check_deps_Kill
+[ 14%] Built target std_srvs_generate_messages_lisp
+[ 14%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[ 14%] Built target geometry_msgs_generate_messages_lisp
+[ 14%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 14%] Built target std_msgs_generate_messages_eus
+[ 16%] [32m[1mLinking CXX executable /home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_mimic[0m
+[ 18%] [32m[1mLinking CXX executable /home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_draw_square[0m
+[ 18%] Built target maskor_mimic
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 18%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 18%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[ 18%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 18%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target maskor_turtle_teleop_key[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/maskor_turtle_teleop_key.dir/tutorials/teleop_turtle_key.cpp.o[0m
+[ 20%] Built target maskor_draw_square
+[35m[1mScanning dependencies of target maskor_turtlesim_generate_messages_cpp[0m
+[ 22%] [34m[1mGenerating C++ code from maskor_turtlesim/Color.msg[0m
+[ 24%] [34m[1mGenerating C++ code from maskor_turtlesim/Pose.msg[0m
+[ 26%] [34m[1mGenerating C++ code from maskor_turtlesim/Kill.srv[0m
+[ 28%] [34m[1mGenerating C++ code from maskor_turtlesim/SetPen.srv[0m
+[ 30%] [34m[1mGenerating C++ code from maskor_turtlesim/Spawn.srv[0m
+[ 32%] [34m[1mGenerating C++ code from maskor_turtlesim/TeleportAbsolute.srv[0m
+[ 34%] [34m[1mGenerating C++ code from maskor_turtlesim/TeleportRelative.srv[0m
+[35m[1mScanning dependencies of target maskor_turtlesim_generate_messages_nodejs[0m
+[ 36%] [34m[1mGenerating Javascript code from maskor_turtlesim/Color.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from maskor_turtlesim/Pose.msg[0m
+[ 40%] [34m[1mGenerating Javascript code from maskor_turtlesim/Kill.srv[0m
+[ 42%] [34m[1mGenerating Javascript code from maskor_turtlesim/SetPen.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from maskor_turtlesim/Spawn.srv[0m
+[ 44%] Built target maskor_turtlesim_generate_messages_cpp
+[35m[1mScanning dependencies of target maskor_turtlesim_generate_messages_lisp[0m
+[ 46%] [34m[1mGenerating Lisp code from maskor_turtlesim/Color.msg[0m
+[35m[1mScanning dependencies of target maskor_turtlesim_generate_messages_eus[0m
+[ 48%] [34m[1mGenerating EusLisp code from maskor_turtlesim/Color.msg[0m
+[ 50%] [34m[1mGenerating Javascript code from maskor_turtlesim/TeleportAbsolute.srv[0m
+[ 52%] [34m[1mGenerating Lisp code from maskor_turtlesim/Pose.msg[0m
+[ 54%] [34m[1mGenerating Javascript code from maskor_turtlesim/TeleportRelative.srv[0m
+[ 56%] [34m[1mGenerating Lisp code from maskor_turtlesim/Kill.srv[0m
+[ 58%] [34m[1mGenerating EusLisp code from maskor_turtlesim/Pose.msg[0m
+[ 58%] Built target maskor_turtlesim_generate_messages_nodejs
+[35m[1mScanning dependencies of target maskor_turtlesim_generate_messages_py[0m
+[ 60%] [34m[1mGenerating Lisp code from maskor_turtlesim/SetPen.srv[0m
+[ 62%] [34m[1mGenerating Python from MSG maskor_turtlesim/Color[0m
+[ 64%] [34m[1mGenerating EusLisp code from maskor_turtlesim/Kill.srv[0m
+[ 66%] [34m[1mGenerating Lisp code from maskor_turtlesim/Spawn.srv[0m
+[ 68%] [34m[1mGenerating Python from MSG maskor_turtlesim/Pose[0m
+[ 70%] [34m[1mGenerating Lisp code from maskor_turtlesim/TeleportAbsolute.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from maskor_turtlesim/SetPen.srv[0m
+[ 74%] [34m[1mGenerating Lisp code from maskor_turtlesim/TeleportRelative.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV maskor_turtlesim/Kill[0m
+[ 76%] Built target maskor_turtlesim_generate_messages_lisp
+[ 78%] [34m[1mGenerating EusLisp code from maskor_turtlesim/Spawn.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from maskor_turtlesim/TeleportAbsolute.srv[0m
+[ 82%] [34m[1mGenerating Python code from SRV maskor_turtlesim/SetPen[0m
+[ 84%] [34m[1mGenerating EusLisp code from maskor_turtlesim/TeleportRelative.srv[0m
+[ 86%] [34m[1mGenerating Python code from SRV maskor_turtlesim/Spawn[0m
+[ 88%] [34m[1mGenerating EusLisp manifest code for maskor_turtlesim[0m
+[ 90%] [34m[1mGenerating Python code from SRV maskor_turtlesim/TeleportAbsolute[0m
+[ 92%] [34m[1mGenerating Python code from SRV maskor_turtlesim/TeleportRelative[0m
+[ 94%] [34m[1mGenerating Python msg __init__.py for maskor_turtlesim[0m
+[ 96%] [34m[1mGenerating Python srv __init__.py for maskor_turtlesim[0m
+[ 98%] [32m[1mLinking CXX executable /home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_turtlesim_node[0m
+[ 98%] Built target maskor_turtlesim_generate_messages_py
+[ 98%] Built target maskor_turtlesim_generate_messages_eus
+[35m[1mScanning dependencies of target maskor_turtlesim_generate_messages[0m
+[ 98%] Built target maskor_turtlesim_generate_messages
+[ 98%] Built target maskor_turtlesim_node
+[100%] [32m[1mLinking CXX executable /home/mark/ROS-Tutorials/devel/.private/maskor_turtlesim/lib/maskor_turtlesim/maskor_turtle_teleop_key[0m
+[100%] Built target maskor_turtle_teleop_key

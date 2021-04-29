@@ -1,0 +1,1 @@
+/home/mark/ROS-Tutorials/devel/.private/rospy_tutorials/lib/pkgconfig/rospy_tutorials.pc
